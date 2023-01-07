@@ -449,15 +449,15 @@
   },
   "Center X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Center X/Text",
-    "text": "Center X"
+    "text": "Tengah X"
   },
   "Center Y": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Center Y/Text",
-    "text": "Center Y"
+    "text": "Tengah Y"
   },
   "Scale": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Scale/Text",
-    "text": "Scale"
+    "text": "Skala"
   },
   "Cromatic aberration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Chromatic aberration/Title",
@@ -469,11 +469,11 @@
   },
   "Tint": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Tint/Text",
-    "text": "Tint"
+    "text": "Warna"
   },
   "Hue": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Hue/Text",
-    "text": "Hue"
+    "text": "Rona"
   },
   "Saturation": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Saturation/Text",
@@ -481,7 +481,7 @@
   },
   "Brightness": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Brightness/Text",
-    "text": "Brightness"
+    "text": "Kecerahan"
   },
   "Contrast": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Contrast/Text",
@@ -489,7 +489,7 @@
   },
   "Colored": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Colored/Label",
-    "text": "Colored"
+    "text": "Diwarnai"
   },
   "Size": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Size/Text",
@@ -501,19 +501,19 @@
   },
   "Transparent grain strength": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Alpha/Text",
-    "text": "Transparent grain strength"
+    "text": "Ketegasan grain transparan"
   },
   "Opaque background": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Opaque background/Label",
-    "text": "Opaque background"
+    "text": "Latar belakang buram"
   },
   "Black level": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Black level/Text",
-    "text": "Black level"
+    "text": "Tingkat ke hitaman"
   },
   "White level": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/White level/Text",
-    "text": "White level"
+    "text": "Tingkat keputihan"
   },
   "Dot grid size": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Dot grid size/Text",
@@ -533,7 +533,7 @@
   },
   "Position: Right/left": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position X/Text",
-    "text": "Posisi : Kir/kanan"
+    "text": "Posisi : Kiri/kanan"
   },
   "Position: Height": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position Y/Text",
@@ -585,7 +585,7 @@
   },
   "No swap": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:0",
-    "text": "No swap"
+    "text": "Jangan tukar"
   },
   "Focal length (6-135mm)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Field of view/Text",
